@@ -85,7 +85,7 @@ const CheckPasswordPage = () => {
                 />
                 <h2 className='font-semibold text-lg mt-1'>{location?.state?.name}</h2>
             </div>
-            <p>_________________Demo: mayowa__________________</p>
+            
           <form className='grid gap-4 mt-3' onSubmit={handleSubmit}>
               
 

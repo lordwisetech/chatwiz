@@ -60,8 +60,7 @@ const CheckEmailPage = () => {
             </div>
 
           <h3>Welcome to ChatWiz</h3>
-          <p>____________Demo: mayowa@gmail.com__________</p>
-
+          
           <form className='grid gap-4 mt-3' onSubmit={handleSubmit}>
               
 
